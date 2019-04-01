@@ -1,5 +1,4 @@
-# node-upload-example
-Example application to upload text fields and files to a NodeJS server.
+# W3lc0m3 2 st0ryt1m3
 ## Setup Instructions
 1. Install the node packages
 
